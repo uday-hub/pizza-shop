@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Pizza-Shop/static/css/main.d856f25b.css",
-    "main.js": "/Pizza-Shop/static/js/main.ee8b353e.js",
-    "static/js/787.624be58a.chunk.js": "/Pizza-Shop/static/js/787.624be58a.chunk.js",
-    "static/media/pizzaLeft.jpg": "/Pizza-Shop/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
-    "static/media/vegan.jpg": "/Pizza-Shop/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
-    "static/media/pizza.jpeg": "/Pizza-Shop/static/media/pizza.21a1098fa87e28d80f37.jpeg",
-    "static/media/multiplePizzas.jpeg": "/Pizza-Shop/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
-    "static/media/pizzaLogo.png": "/Pizza-Shop/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
-    "static/media/expensive.jpg": "/Pizza-Shop/static/media/expensive.6449ceefce083d18dfef.jpg",
-    "static/media/pepperoni.jpg": "/Pizza-Shop/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
-    "static/media/pineapple.jpg": "/Pizza-Shop/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
-    "static/media/margherita.jpg": "/Pizza-Shop/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
-    "static/media/pizzashopspecial.jpg": "/Pizza-Shop/static/media/pizzashopspecial.425951cb0e484775fd4c.jpg",
-    "index.html": "/Pizza-Shop/index.html",
-    "main.d856f25b.css.map": "/Pizza-Shop/static/css/main.d856f25b.css.map",
-    "main.ee8b353e.js.map": "/Pizza-Shop/static/js/main.ee8b353e.js.map",
-    "787.624be58a.chunk.js.map": "/Pizza-Shop/static/js/787.624be58a.chunk.js.map"
+    "main.css": "/pizza-shop/static/css/main.df3a532e.css",
+    "main.js": "/pizza-shop/static/js/main.b2cebe98.js",
+    "static/js/787.624be58a.chunk.js": "/pizza-shop/static/js/787.624be58a.chunk.js",
+    "static/media/pizzaLeft.jpg": "/pizza-shop/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/pizza-shop/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/pizza-shop/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/pizza-shop/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/pizza-shop/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/pizza-shop/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/pizza-shop/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/pizza-shop/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/pizza-shop/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pizzashopspecial.jpg": "/pizza-shop/static/media/pizzashopspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/pizza-shop/index.html",
+    "main.df3a532e.css.map": "/pizza-shop/static/css/main.df3a532e.css.map",
+    "main.b2cebe98.js.map": "/pizza-shop/static/js/main.b2cebe98.js.map",
+    "787.624be58a.chunk.js.map": "/pizza-shop/static/js/787.624be58a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d856f25b.css",
-    "static/js/main.ee8b353e.js"
+    "static/css/main.df3a532e.css",
+    "static/js/main.b2cebe98.js"
   ]
 }
