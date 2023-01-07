@@ -2,7 +2,7 @@
   "name": "pizza-shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://uday-hub.github.io/Pizza-Shop",
+  "homepage": "https://uday-hub.github.io/pizza-shop",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
