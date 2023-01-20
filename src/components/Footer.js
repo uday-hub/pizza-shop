@@ -1,6 +1,5 @@
 import React from "react";
 import "../styles/Footer.css";
-// import InstagramIcon from "@material-ui/icons/Instagram";
 
 function Footer() {
   return (
@@ -11,7 +10,7 @@ function Footer() {
         <i class="fab fa-linkedin-in"></i>
         <i class="fab fa-twitter"></i>
       </div>
-      <p> &copy; 2022 Pizzashop.com </p>
+      <p> &copy; {new Date().getFullYear()}&nbsp;Pizzashop.com</p>
     </div>
   );
 }
